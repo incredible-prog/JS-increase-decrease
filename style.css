@@ -1,0 +1,19 @@
+.btns{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(96, 42, 245);
+    border-radius: 5px;
+
+}
+
+#btnsgroup{
+    text-align: center;
+}
+#countLabel{
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10em;
+    text-align: center;
+
+}
